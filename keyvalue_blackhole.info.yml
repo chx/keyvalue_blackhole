@@ -1,0 +1,4 @@
+name: 'Key value blackhole'
+description: 'All gets return defaults'
+type: 'module'
+core: '8.x'

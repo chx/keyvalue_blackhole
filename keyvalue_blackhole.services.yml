@@ -1,0 +1,4 @@
+services:
+  keyvalue.blackhole:
+    class: Drupal\keyvalue_blackhole\BlackholeFactory
+
